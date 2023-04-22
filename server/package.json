@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "server": "nodemon server"
+    "server": "nodemon server.js"
   },
   "devDependencies": {
     "cors": "^2.8.5",
